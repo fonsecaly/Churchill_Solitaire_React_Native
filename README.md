@@ -2,8 +2,11 @@
 
 ## Basic Requirements for setting up react native 
 . Node Js
+
 . Visual Studio Code
+
 . JAVA SDK (any latest version)
+
 . Android Studio (for emulator purpose only)
 
 ## Installing React Native
@@ -14,4 +17,5 @@ react-native run-android
 
 ## Quick start
 npm install
+
 npm start
